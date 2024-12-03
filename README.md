@@ -2,11 +2,11 @@
 
 Coded by Bhavy Veer Malik.\
 email: bhavymalik007@gmail.com .\
-College- IIT Kharagpur.\
+College- IIT Kharagpur.
 
 # Quicksell Frontend Assignment
 
-This project is live [here]
+This project is live [here](https://quickshell-assignment-bhavy-malik-iit-kharagpur.vercel.app/)
 
 ## Available Scripts
 
