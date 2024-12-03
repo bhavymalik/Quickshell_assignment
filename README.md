@@ -5,7 +5,7 @@ College- IIT Kharagpur
 
 # Quicksell Frontend Assignment
 
-This project is live [here](https://quicksell-assignment-alpha.vercel.app/)
+This project is live [here]
 
 ## Available Scripts
 
