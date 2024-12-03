@@ -1,7 +1,8 @@
 # Credentials
 
-Coded by Bhavy Veer Malik
-College- IIT Kharagpur
+Coded by Bhavy Veer Malik.\
+email: bhavymalik007@gmail.com .\
+College- IIT Kharagpur.\
 
 # Quicksell Frontend Assignment
 
